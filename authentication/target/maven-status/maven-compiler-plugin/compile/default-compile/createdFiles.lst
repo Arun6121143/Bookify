@@ -1,0 +1,10 @@
+com/jwt/authentication/user/MapErrorMessage.class
+com/jwt/authentication/user/UserRepository.class
+com/jwt/authentication/user/UserNotFoundWithIdException.class
+com/jwt/authentication/user/UserController.class
+com/jwt/authentication/book/Book.class
+com/jwt/authentication/user/NoUserInTheDatabaseException.class
+com/jwt/authentication/user/User.class
+com/jwt/authentication/AuthenticationApplication.class
+com/jwt/authentication/user/UserService.class
+com/jwt/authentication/user/UserControllerAdvice.class
